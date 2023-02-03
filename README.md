@@ -18,4 +18,4 @@ administration).
 3) Which is the general trend? Do we notice a decrease or an increase in
 deaths from 1990 to 2019?
 
-## File in the repository
+## Files in the repository
