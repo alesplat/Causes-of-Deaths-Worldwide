@@ -17,5 +17,12 @@ administration).
 - Taking into consideration the time frame, can we draw some insights?
 3) Which is the general trend? Do we notice a decrease or an increase in
 deaths from 1990 to 2019?
+  
+![](/Dashboard.PNG)
+![](/Dashboard2.PNG)
 
 ## Files in the repository
+- Data cleaned.tflx => packaged flow file containing dataset cleaned
+- Dashboards.twbx => the full work done in Tableau
+- Presentation.pptx => PowerPoint of the work done
+- Report.pdf => complete report in pdf
